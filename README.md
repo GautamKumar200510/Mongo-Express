@@ -100,7 +100,7 @@ This project demonstrates the four basic database operations:
 | Update | Modify existing documents |
 | Delete | Remove documents from MongoDB |
 
-## 🎯 Purpose
+## Purpose
 
 The main purpose of this project is to learn how **Express.js, MongoDB, Mongoose, and EJS** work together to build a basic backend web application.
 
