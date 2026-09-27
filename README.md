@@ -2,7 +2,7 @@
 
 A beginner-friendly **MongoDB and Express.js** learning project built with **Node.js** and **Mongoose**. This project demonstrates how to connect a backend application with MongoDB and perform basic CRUD operations.
 
-## 🚀 Technologies Used
+##  Technologies Used
 
 - Node.js
 - Express.js
@@ -33,7 +33,7 @@ Mongo-Express/
 └── .gitignore
 ```
 
-## 📌 Features
+##  Features
 
 - Express.js server setup
 - MongoDB database connection
@@ -75,7 +75,7 @@ node index.js
 
 The application will run on the port configured in `index.js`.
 
-## 🗄️ MongoDB Setup
+##  MongoDB Setup
 
 Make sure MongoDB is installed and running on your system.
 
@@ -89,7 +89,7 @@ mongoose.connect("mongodb://127.0.0.1:27017/databaseName");
 
 Replace `databaseName` with the database name used in the project.
 
-## 🔄 CRUD Operations
+##  CRUD Operations
 
 This project demonstrates the four basic database operations:
 
@@ -104,7 +104,7 @@ This project demonstrates the four basic database operations:
 
 The main purpose of this project is to learn how **Express.js, MongoDB, Mongoose, and EJS** work together to build a basic backend web application.
 
-## 👨‍💻 Author
+##  Author
 
 **Gautam Kumar**
 
