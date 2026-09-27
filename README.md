@@ -47,7 +47,7 @@ Mongo-Express/
 - Static files using the `public` folder
 - Basic backend CRUD operations
 
-## ⚙️ Installation
+## Installation
 
 ### 1. Clone the repository
 
